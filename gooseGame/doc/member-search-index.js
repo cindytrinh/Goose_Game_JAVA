@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"goosegame","c":"TeleportCell","l":"handleMove(int)"},{"p":"goosegame","c":"TeleportCell","l":"TeleportCell(int)"}]
